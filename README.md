@@ -63,10 +63,9 @@ OR
 
 Reach out to me at one of the following places!
 
-- Website at <a href="https;//thekaranchauhan.com" target="_blank">`thekaranchauhan.com`</a>
-- Twitter at <a href="https://instagram.com/thekaranchauhan" target="_blank">`@thekaranchauhan`</a>
+<!-- - Website at <a href="https;//thekaranchauhan.com" target="_blank">`thekaranchauhan.com`</a> -->
+- Twitter at <a href="https://x.com/hellokaranhere" target="_blank">`@hellokaranhere`</a>
 
-Original idea by <a href="https://github.com/kamranahmedse" target=_blank>Kamran Ahmed</a>
 
 ---
 
