@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# Gitstar
+> Gitstar is a React application designed to show the most starred projects uploaded to GitHub in the desired space of time.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+[![Screenshot](./gitstar.png)](https://github.com/thekaranchauhan/Gitstar)
 
-In the project directory, you can run:
+## Table of Contents 
+- [Usage](#Usage)
+- [Installation](#Installation)
+- [Contribute](#Contribute)
+- [Support](#Support)
+- [License](#License)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Usage
+You can access to it on https://github.com/thekaranchauhan/Gitstar
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Installation
+To install run the following commands in the root folder. (You can use npm if you please)
+```shell
+yarn install
+```
+To serve a development build use the following command. (You can use npm if you please)
+```shell
+yarn start
+```
+To build the app for production, use the following command.
+```shell
+yarn build
+```
+It will create a `build` folder with the static files.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Contribute
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+You can contribute to the development or improvement of this app and it will be much appreciated if you do !
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To do so:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Step 1
 
-### `npm run eject`
+- Fork this repo!
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+OR
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Clone this repo to your local machine using `https://github.com/thekaranchauhan/Gitstar.git`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Step 2
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **HACK AWAY!** 🔨🔨🔨
 
-## Learn More
+### Step 3
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Create a new pull request using <a href="https://github.com/thekaranchauhan/Gitstar/compare/" target="_blank">`https://github.com/thekaranchauhan/Gitstar/compare/`</a>.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## Support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Reach out to me at one of the following places!
 
-### Analyzing the Bundle Size
+- Website at <a href="https;//thekaranchauhan.com" target="_blank">`thekaranchauhan.com`</a>
+- Twitter at <a href="https://instagram.com/thekaranchauhan" target="_blank">`@thekaranchauhan`</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Original idea by <a href="https://github.com/kamranahmedse" target=_blank>Kamran Ahmed</a>
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## License
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **[MIT license](http://opensource.org/licenses/mit)**
+- Copyright 2020 © <a href="https;//thekaranchauhan.com" target="_blank">Karan Chauhan</a>.
