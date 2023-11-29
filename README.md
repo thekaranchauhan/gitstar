@@ -64,7 +64,9 @@ OR
 Reach out to me at one of the following places!
 
 <!-- - Website at <a href="https;//thekaranchauhan.com" target="_blank">`thekaranchauhan.com`</a> -->
-- Twitter at <a href="https://x.com/hellokaranhere" target="_blank">`@hellokaranhere`</a>
+- Instagram at <a href="https://instagram.com/thekaranchauhan" target="_blank">`@thekaranchauhan`</a>
+- Email at <a href="mailto:hellokaranhere@outlook.com" target="_blank">`@hellokaranhere@outlook.com`</a>
+- X at <a href="https://x.com/hellokaranhere" target="_blank">`@hellokaranhere`</a>
 
 
 ---
